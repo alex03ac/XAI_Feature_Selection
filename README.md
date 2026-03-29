@@ -6,7 +6,6 @@
 
 **Institución:** Universidad Nacional de Ingeniería
 
----
 
 ## Resumen del Proyecto
 Este repositorio es una **reproducción controlada** de los experimentos propuestos en el artículo científico:  
