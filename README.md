@@ -1,11 +1,11 @@
-# 🛡️ Laboratorio: Inteligencia Artificial aplicada a la Ciberseguridad
+# Laboratorio: Inteligencia Artificial aplicada a la Ciberseguridad
 **Estudiante:** Alexandro Achalma Galindo 
 **Curso:** CBS06M Inteligencia Artificial II
 **Institución:** Universidad Nacional de Ingeniería
 
 ---
 
-## 📖 Resumen del Proyecto
+## Resumen del Proyecto
 Este repositorio es una **reproducción controlada** de los experimentos propuestos en el artículo científico:  
 > *"XAI-based Feature Selection for Improved Network Intrusion Detection Systems"*.
 
